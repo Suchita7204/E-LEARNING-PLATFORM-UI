@@ -52,4 +52,11 @@ In summary, the Front-End Online Courses Website provides an excellent example o
 
 *OUTPUT*
 
+<img width="1919" height="889" alt="Image" src="https://github.com/user-attachments/assets/2acc4cac-5ca9-43ce-8dcb-b03193f89c99" />
+
+<img width="1876" height="952" alt="Image" src="https://github.com/user-attachments/assets/8fe97409-57af-483a-be1c-ada618cbb4ba" />
+
+<img width="1758" height="668" alt="Image" src="https://github.com/user-attachments/assets/c4d58d51-a06e-419a-b7c8-dce4927b6f3f" />
+
+<img width="1919" height="645" alt="Image" src="https://github.com/user-attachments/assets/bd8f6a2c-604a-43de-893e-842bb4838cf1" />
 
